@@ -1,5 +1,5 @@
 # gwu_practicum
-## Spring 2022 GWU Business Analytics Practicum Project
+### Spring 2022 GWU Business Analytics Practicum Project
 
 For our Practicum Project at The George Washington University, we were
 sponsored by our client, Navanti Group, to produce a real-time sentiment analysis and
@@ -13,6 +13,7 @@ provides actionable insights and recommendations based on the reality that COVID
 misinformation is in fact having an impact on mainstream media content.
 
 *Deliverables*
+
 ● Two real-time dashboards segmented by source types (applies to Twitter only) and
 filterable by theme categories with five distinct visualizations:
 ○ Time series of post counts
